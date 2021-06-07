@@ -1,1 +1,1 @@
-# OWN-GAME
+# Infinite Runner Game
